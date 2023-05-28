@@ -3,3 +3,5 @@
 all about practice
 
 testing git comands
+
+testing git merge
